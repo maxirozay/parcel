@@ -48,7 +48,7 @@
     "serialize-to-js": "^1.1.1",
     "serve-static": "^1.12.4",
     "source-map": "0.6.1",
-    "toml": "^2.3.3",
+    "toml": "^5.0.1",
     "tomlify-j0.4": "^3.0.0",
     "uglify-es": "^3.2.1",
     "v8-compile-cache": "^1.1.0",
